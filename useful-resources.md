@@ -132,22 +132,45 @@ You can call the above with `\baz{some string}`: \baz{some string}.
 
 # Machine Learning
 
-- [CS 229 2022](<https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy>)
-- [MIT 6.036 Introduction to Machine Learning](<https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV>)
-- [StatQuest's ML playlist](<https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF>), good for intuition
-- [Stanford's CS336 - Language Modeling from Scratch](<https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_>)
+-
+~~~
+<a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy" target="_blank">CS 229 2022</a>
+~~~
 
+-
+~~~
+<a href="https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV" target="_blank">MIT 6.036 Introduction to Machine Learning</a>
+~~~
+
+-
+~~~
+<a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" target="_blank">StatQuest's ML playlist</a>, good for intuition
+~~~
+
+-
+~~~
+<a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_" target="_blank">Stanford's CS336 - Language Modeling from Scratch</a>
+~~~
 
 # Deep Learning
+-
+~~~ 
+<a href="https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v" target="_blank">Deep Learning NYU 2020</a>
+~~~
 
-- [Deep Learning NYU 2020](<https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v>)
-- [MIT 6.S191 Introduction to Deep Learning](<https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI>)
-- [StatQuest's Deep Learning](<https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1>)
+-
+~~~ 
+<a href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI" target="_blank">MIT 6.S191 Introduction to Deep Learning</a>
+~~~
+
+-
+~~~ 
+<a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1" target="_blank">StatQuest's Deep Learning</a>
+~~~
 
 # Information Retrieval
 
-- [An Introduction to Information Retrieval](<https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf>)
-
-# NLP
-
-- [Speech and Language Processing] (<https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf>)
+-
+~~~ 
+<a href="https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf" target="_blank">An Introduction to Information Retrieval</a>
+~~~

@@ -192,7 +192,7 @@ There's a few other such functions of the form `{{fname p₁ p₂}}` as well as 
 
 # A little about me
 
-I'm a SwE student from Brazil transitioning to Data Science. My undergrad research _Fairness in finance_ and my undergrad thesis involves _Biomedical Knowledge Graphs_.
+I'm a SwE student from Brazil transitioning to Data Science. My undergrad research is in _Fairness in finance_ and my undergrad thesis will likely involve _Biomedical Knowledge Graphs_.
 
 ## Areas of Interest
 
