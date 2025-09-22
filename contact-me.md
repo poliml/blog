@@ -108,4 +108,7 @@ For instance the default uses:
 
 ## Social Networks
 
-- [Github](<https://www.github.com/poliml>)
+-
+~~~
+<a href="https://www.github.com/poliml" target="_blank">Github</a>
+~~~
