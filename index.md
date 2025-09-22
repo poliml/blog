@@ -202,7 +202,10 @@ I'm a SwE student from Brazil transitioning to Data Science. My undergrad resear
 - Computer Networks
 
 ## Currently Reading
+-
+~~~
+<a href="https://www.edusp.com.br/livros/leitura-e-escrita-textos-argumentativos/" target="_blank">SACRINI, M. <em>Leitura e Escrita de Textos Argumentativos</em>. São Paulo: Edusp, 2019.</a>
+~~~
 
-- [SACRINI, M. _Leitura e Escrita de Textos Argumentativos_. São Paulo: Edusp, 2019](<https://www.edusp.com.br/livros/leitura-e-escrita-textos-argumentativos/>).
-- MANNING, Christopher D. et al. _Introduction to information retrieval_. Cambridge: Cambridge University Press, 2009. Disponível em: <https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf>. Acesso em: 22 set. 2025.
+- MANNING, Christopher D. et al. _Introduction to information retrieval_. Cambridge: Cambridge University Press, 2009. Disponível em: <https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf>. Acesso em: 22 set. 2025.  
 - JURAFSKY, Dan & MARTIN, James H. _Speech and language processing_. 3. ed. Draft de 24 ago. 2025. Cambridge: Cambridge University Press, 2025. Disponível em: <https://web.stanford.edu/~jurafsky/slp3/>. Acesso em: 22 set. 2025.
