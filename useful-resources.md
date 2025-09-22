@@ -174,3 +174,10 @@ You can call the above with `\baz{some string}`: \baz{some string}.
 ~~~ 
 <a href="https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf" target="_blank">An Introduction to Information Retrieval</a>
 ~~~
+
+# NLP
+
+-
+~~~
+<a href="https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf" target="_blank">Speech and Language Processing</a>
+~~~
