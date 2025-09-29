@@ -10,7 +10,7 @@
 
 ## Planning on reading eventually
 
-- KARLIN, Samuel; TAYLOR, Howard M. _A First Course in Stochastic Processes_. [S.l.]: [s.n.], [s.d.]. Disponível em: <https://webdelprofesor.ula.ve/economia/drivas/materias/ProcesosEstocasticos/Libros/A%20first%20course%20in%20stochastics%20Processes%20[Samuel%20Karlin,%20Howard%20M.Taylor].pdf>. Acesso em: 29 set. 2025.
+- KARLIN, Samuel; TAYLOR, Howard M. _A First Course in Stochastic Processes_. 2. ed. rev. Academic Press, 1975. 576 p. Disponível em: <https://webdelprofesor.ula.ve/economia/drivas/materias/ProcesosEstocasticos/Libros/A%20first%20course%20in%20stochastics%20Processes%20[Samuel%20Karlin,%20Howard%20M.Taylor].pdf>. Acesso em: 29 set. 2025.
 
 - CORDEIRO, Daniel. _Manual de Redação Matemática_. São Paulo: Blucher, 2018. Disponível em: <https://www.amazon.com.br/Manual-Reda%C3%A7%C3%A3o-Matem%C3%A1tica-Daniel-Cordeiro/dp/8583371385>. Acesso em: 29 set. 2025.
 
